@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Rana-Awais🔥',
+  packname: 'Rana-Awais-🔥',
   author: '‎',
   botName: "Rana-Awais☠️",
   botOwner: 'Professor', // Your name
@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "2.1.8",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  updateZipUrl: "https://github.com/RanaAwaisMD/RanaAwais-MD/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
